@@ -1,4 +1,6 @@
 # tp3
+Ce projet n'a rien de remarquable.
+Pour le lancer, il faut au préalable lancer la base MongoDB ainsi que l'API Rest ( aucune modification n'a été effectuée sur la BDD)
 
 ## Project setup
 ```
